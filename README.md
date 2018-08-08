@@ -1,6 +1,7 @@
 # MeanApp
+# Visit https://mean-app-13d05.firebaseapp.com/ to view the app
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8. This is a MEAN application programmed as part of a MEAN development course. This app allows for the adding, deleting, and storing of posts. Posts are stored in a MongoDB database, the front end is programmed with angular. The backend is programmed with express and node.js. This project serves as a prototype for the tweeter application.
 
 ## Development server
 
